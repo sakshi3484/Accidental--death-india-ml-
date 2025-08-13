@@ -41,7 +41,7 @@ Source: **ADSI (Accidental Deaths & Suicides in India) Report**
 ---
 
 ## 📷 Screenshot
-*(Add a screenshot of your Streamlit app here — save it as `screenshot.png` in your repo)*
+![App Screenshot](screenshot.png)
 
 ---
 
