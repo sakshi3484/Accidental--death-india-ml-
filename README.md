@@ -21,7 +21,7 @@ Source: **ADSI (Accidental Deaths & Suicides in India) Report**
 ---
 
 ## 🖥️ Live App
-[▶️ **Open Streamlit App**](https://indian-accident-risk-predictor-j2x78djdptwschq3gonnsh.streamlit.app/)
+[▶️ **Open Streamlit App**](https://2by7qerjwplfvaymikxirs.streamlit.app)
 
 ---
 
@@ -36,7 +36,7 @@ Source: **ADSI (Accidental Deaths & Suicides in India) Report**
 ## 🔗 Quick Links
 - 📄 [Google Colab Notebook](https://colab.research.google.com/drive/1G-zgDZCNR_gz3PYv_ipddt-aqPleGq-B)
 - 📑 [Project Synopsis (PDF)](https://raw.githubusercontent.com/sakshi3484/Accidental--death-india-ml-/main/sakshi%20,maansi%20Project%20Synopsis%20.pdf)
-- 🚦 [Live Streamlit App](https://indian-accident-risk-predictor-j2x78djdptwschq3gonnsh.streamlit.app/)
+- 🚦 [Live Streamlit App](https://2by7qerjwplfvaymikxirs.streamlit.app)
 
 ---
 
@@ -60,9 +60,9 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
+🏆 Authors
+Sakshi
 
-## 🏆 Authors
-- [**Sakshi**](https://github.com/sakshi3484)  
-- **Maansi**
+Maansi
 
 
