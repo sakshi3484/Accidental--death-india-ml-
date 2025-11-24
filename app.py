@@ -19,6 +19,7 @@ st.sidebar.markdown(
 st.sidebar.markdown(
     "[📑 View Project Synopsis (PDF)](https://raw.githubusercontent.com/rahul2196455/Accidental--death-india-ml-/main/Rahul%20Project%20Synopsis%20.pdf)"
 )
+
 st.sidebar.markdown("---")
 st.sidebar.title("About this App")
 st.sidebar.write(
