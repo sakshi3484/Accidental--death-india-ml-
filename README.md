@@ -37,7 +37,7 @@ The project is built with **Python**, trained in **Google Colab**, and deployed 
 
 ## 🔗 Quick Links
 - 📄 [Google Colab Notebook](https://colab.research.google.com/drive/1G-zgDZCNR_gz3PYv_ipddt-aqPleGq-B)
-- 📑 [Project Synopsis (PDF)](https://raw.githubusercontent.com/rahul2196455/Accidental--death-india-ml-/main/rahul%20Project%20Synopsis%20.pdf)
+- 📑 [ View Project Synopsis (PDF)](https://raw.githubusercontent.com/rahul2196455/Accidental--death-india-ml-/main/Synopsis.pdf)
 
 
 - 🚦 [Live Streamlit App](https://sakshi-accident-risk-predictor.streamlit.app/)
