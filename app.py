@@ -14,7 +14,10 @@ st.sidebar.title("Project Links")
 st.sidebar.markdown(
     "[📄 View Full Notebook on Google Colab](https://colab.research.google.com/drive/1G-zgDZCNR_gz3PYv_ipddt-aqPleGq-B)"
 )
-
+# Synopsis PDF link
+st.sidebar.markdown(
+    "[📄 View Project Synopsis (PDF)](https://raw.githubusercontent.com/rahul2196455/Accidental--death-india-ml-/main/Synopsis.pdf)"
+)
 
 
 
