@@ -17,7 +17,7 @@ st.sidebar.markdown(
 
 # Synopsis PDF link (raw format)
 st.sidebar.markdown(
-    "[📑 View Project Synopsis (PDF)](https://raw.githubusercontent.com/rahul2196455/Accidental--death-india-ml-/main/Rahul%20Project%20Synopsis%20.pdf)"
+    "[📑 View Project Synopsis (PDF)](https://raw.githubusercontent.com/rahul2196455/Accidental--death-india-ml-/main/rahul%20Project%20Synopsis%20.pdf)"
 )
 
 st.sidebar.markdown("---")
