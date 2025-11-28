@@ -31,7 +31,7 @@ The project is built with **Python**, trained in **Google Colab**, and deployed 
 - `app.py` → Main Streamlit application
 - `requirements.txt` → Python dependencies list
 - `final_pyml_project_of_accidental_deaths_in_india.ipynb` → Jupyter/Colab notebook for model training
-- `rahul Project Synopsis .pdf` → Detailed project synopsis
+- `Project Synopsis .pdf` → Detailed project synopsis
 
 ---
 
